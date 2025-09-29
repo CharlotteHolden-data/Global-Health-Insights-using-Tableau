@@ -1,7 +1,7 @@
 # Global Health Insights Visualization with Tableau 🌍💉
 
 This repository showcases the use of **Tableau** to create interactive and visually appealing visualizations that highlight key insights into global health trends.
-
+[Link to my Dashboard](https://public.tableau.com/app/profile/charlotte.holden/viz/GlobalHealthInsights_17562933492880/GlobalHealthInsights)
 ## Overview
 
 Leveraging Tableau's advanced data visualization tools, we transformed complex global health data into clear and engaging graphics that effectively communicate important health metrics and trends.
